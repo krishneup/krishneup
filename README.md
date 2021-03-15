@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: contact@krishnp.me
+- 📫 How to reach me: queryhow@gmail.com
 - 🔭 I’m currently working on ReactJS and WordPress
 
 <!--
